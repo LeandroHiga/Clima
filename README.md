@@ -6,16 +6,16 @@
 
 * Model View Controller (MVC) patern
 * APIs to fetch live weather data from Open Weather Map
+* Core Location to get the current location from the phone GPS
+* URLSession and HTTP requests
+* Parse JSON (Codable protocol) 
+* Dispatch Queue
 * Dark-mode enabled app
-* How to use vector images as image assets
-* UITextField to get user input. 
+* UITextField to get user input
 * Delegates
 * Swift protocols 
 * Swift extensions
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* URLSession and HTTP requests.
-* Parse JSON (Codable protocol) 
-* Dispatch Queue to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS. 
+* Swift computed properties
+* Swift closures and completion handlers
+
+
