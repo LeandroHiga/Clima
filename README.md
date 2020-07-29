@@ -17,5 +17,5 @@
 * Swift closures and completion handlers.
 * URLSession and HTTP requests.
 * Parse JSON (Codable protocol) 
-* Learn to use Grand Central Dispatch to fetch the main thread.
+* Dispatch Queue to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
